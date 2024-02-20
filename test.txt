@@ -1,1 +1,1 @@
-checking pollscm again
+setting message to pollscm jenkins git
