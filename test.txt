@@ -1,1 +1,1 @@
-setting message to pollscm jenkins git
+checking setting message on jenkins git
